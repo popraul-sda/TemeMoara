@@ -1,0 +1,32 @@
+.exemplu{
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+}
+
+.container-produs{
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  color: black;
+}
+
+.container-ex3.close > .container-ex3-text {
+  opacity: 0;
+}
+
+.container-ex3.open > .container-ex3-nume{
+  color: rgb(91, 161, 201);
+}
+
+.container-codCuloare{
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+}
+
+.d-flex{
+  display: flex;
+}
