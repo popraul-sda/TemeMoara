@@ -1,0 +1,62 @@
+.App{
+  padding: 20px;
+}
+
+.small-square1{
+  background-color: greenyellow;
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  width: 1px;
+  height: 1px;
+}
+
+.small-square2{
+  background-color: blue;
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  width: 1px;
+  height: 1px;
+}
+
+.small-square3{
+  background-color: grey;
+  border: 1px solid;
+  padding: 20px;
+  text-align: center;
+  width: 1px;
+  height: 1px;
+}
+
+.legend-box{
+  display: flex;
+  
+}
+
+.graph-box{
+  border: 1px solid;
+  text-align: center;
+  width: 1398px;
+  height: 100px;
+  display: flex;
+}
+
+.yes{
+  background: greenyellow;
+  border: 1px solid;
+  height: 100px;
+}
+
+.no{
+  background-color: blue;
+  border: 1px solid;
+  height: 100px;
+}
+
+.maybe{
+  background-color: gray;
+  border: 1px solid;
+  height: 100px;
+}
+
