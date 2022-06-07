@@ -1,0 +1,12 @@
+.App{
+  padding: 20px;
+}
+
+
+.stickynote-container{
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  flex: 0 0 33.333333%;
+  width: 350px;
+}
